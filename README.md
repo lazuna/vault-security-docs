@@ -1,2 +1,2 @@
-# 100Doors
+# 100-doors
 100 doors!
