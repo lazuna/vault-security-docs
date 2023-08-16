@@ -1,2 +1,1 @@
-# 100-doors
-100 doors!
+# Note taking and Task Management
