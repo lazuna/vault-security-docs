@@ -1,0 +1,26 @@
+meta:
+  title: "Projecting Intelligence for Security Leaders"
+  source: "Dr. Todd Dewett - Projecting Intelligence Course"
+  adapted_for: "CISO Leadership Development"
+  tags: ["executive-presence", "communication", "credibility", "leadership"]
+  difficulty: "intermediate"
+  estimated_time: "45 minutes"
+
+overview: |
+  Essential strategies for building credibility and projecting intelligence
+  as a security leader in executive and technical environments.
+
+sections:
+  social_context:
+    title: "Understanding Social Context"
+    # Content will be added here
+  
+  effective_listening:
+    title: "Strategic Listening for Security Leaders"
+    # Content will be added here
+  
+  confident_communication:
+    title: "Projecting Comfortable Confidence"
+    # Content will be added here
+
+# TODO: Add full content from your notes

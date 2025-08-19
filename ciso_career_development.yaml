@@ -1,0 +1,24 @@
+meta:
+  title: "CISO Career Development"
+  focus: "career-progression"
+  difficulty: "intermediate"
+  tags: ["career", "leadership", "professional-development"]
+
+overview: |
+  Strategic guidance for developing and advancing a career in security leadership,
+  with focus on the CISO role and executive responsibilities.
+
+sections:
+  career_path:
+    title: "CISO Career Progression"
+    # Content to be added
+    
+  skill_development:
+    title: "Essential Skill Building"
+    # Content to be added
+    
+  networking:
+    title: "Professional Networking"
+    # Content to be added
+
+# TODO: Add comprehensive career development content

@@ -1,0 +1,6 @@
+title: "Repository Documentation"
+description: "Documentation about the repository structure, architecture, and contributing"
+sections:
+  - architecture
+  - contributing
+  - structure_guide
